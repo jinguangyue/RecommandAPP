@@ -1,0 +1,15 @@
+{
+	"apps": [{
+			"name": "Fart Sound",
+			"package": "com.fangpi.joke",
+			"imgUrl": "https://lh3.googleusercontent.com/jvMq4B5GHZIOfiNrwDvrC6OE0DHYAY_STvcXPOJx0jrCyN-qKKWlFNbBvWWupYhSDMSR=s360-rw",
+			"msg": "It Can make a variety of farts"
+		},
+		{
+			"name": "Snore Sound Maker",
+			"package": "com.sound.hulu",
+			"imgUrl": "https://lh3.googleusercontent.com/QFDQ_hd9dY_FhMYggUdS1N4oAH2tznjzsBYKeVGK4rSn38Tr8cXrSiZfAijadbts-RdB=s360-rw",
+			"msg": "Surprise Friends with Snore Sound Maker"
+		}
+	]
+}
