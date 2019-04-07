@@ -10,6 +10,12 @@
 			"package": "com.sound.hulu",
 			"imgUrl": "https://lh3.googleusercontent.com/QFDQ_hd9dY_FhMYggUdS1N4oAH2tznjzsBYKeVGK4rSn38Tr8cXrSiZfAijadbts-RdB=s360-rw",
 			"msg": "Surprise Friends with Snore Sound Maker"
+		},
+		{
+			"name": "Cat Sound Maker",
+			"package": "com.catvoice.catvoicemaker",
+			"imgUrl": "",
+			"msg": "Surprise Friends with Cat Sound Maker"
 		}
 	]
 }
