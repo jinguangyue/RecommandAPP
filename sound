@@ -16,6 +16,12 @@
 			"package": "com.catvoice.catvoicemaker",
 			"imgUrl": "https://lh3.googleusercontent.com/eJ1r4nOu15BOZsKvOqGjvydatat5mpKe9yIKCWn7YDXpPVwzvEZlHZbO_x62tK5CnWU=s360-rw",
 			"msg": "Surprise Friends with Cat Sound Maker"
+		},
+		{
+			"name": "Dog Sound",
+			"package": "dog.howling.dogsound",
+			"imgUrl": "https://lh3.googleusercontent.com/DZTXrIN_ONjJOxMpzcw9N7QdjmYQMXzbu7qnLfySgdKcfv_t22JnARLh_qZHFzmNUQ=s360-rw",
+			"msg": "Surprise Friends with Dog Sound Maker"
 		}
 	]
 }
