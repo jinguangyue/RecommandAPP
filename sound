@@ -1,5 +1,17 @@
 {
 	"apps": [{
+			"name": "Tikdownloader - Video Downloader",
+			"package": "com.videodownloaderfortiktok.tikdownloader",
+			"imgUrl": "https://lh3.googleusercontent.com/t-h-g-LDuYnBzuEb_z6u-nNW3-CZ-J_jdM2eF2frW-88nBiChDO5l-Xy7r9kcEAzQFw=s360-rw",
+			"msg": "Download videos from TikTok. Fastly and Effectively."
+		},
+		{
+			"name": "Q Browser - ALL Video Downloader",
+			"package": "com.privatebroswer.qbrowser.videodownloader",
+			"imgUrl": "https://lh3.googleusercontent.com/mfHeYpgHn5wOpVRXr7_22J7khbrylEt-5DlaqEfQCHrLPcw2qLNk4dRVgZwJl-QgqZ8=s360-rw",
+			"msg": "ALL video downloader online. Free Browser"
+		},
+		{
 			"name": "Fart Sound",
 			"package": "com.fangpi.joke",
 			"imgUrl": "https://lh3.googleusercontent.com/jvMq4B5GHZIOfiNrwDvrC6OE0DHYAY_STvcXPOJx0jrCyN-qKKWlFNbBvWWupYhSDMSR=s360-rw",
