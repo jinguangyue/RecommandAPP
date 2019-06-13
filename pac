@@ -331,9 +331,9 @@ var autoproxy_host = {
   "zamalekfans.com": 1,
   "ziddu.com": 1,
   "zing.vn": 1,
-  "zoho.com": 1
-  "apps.admob.com":1,
-  "admob.com":1
+  "zoho.com": 1,
+  "apps.admob.com": 1,
+  "admob.com": 1
 };
 function FindProxyForURL(url, host) {
     var lastPos;
