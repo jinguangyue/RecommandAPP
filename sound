@@ -1,5 +1,12 @@
 {
-	"apps": [{
+	"apps": [
+	{
+			"name": "Super Broken Screen - prank your friends",
+			"package": "com.brokenscreen.funnyjoke",
+			"imgUrl": "https://lh3.googleusercontent.com/wakBPkUUPipBDT5wX93OuBplqaX3am78cfPHjXtMHp9pX0RHEC5ntHftP21WXHwCrKo=s180-rw",
+			"msg": "Prank your friends. Very Funny app."
+		},
+	{
 			"name": "Tikdownloader - Video Downloader",
 			"package": "com.videodownloaderfortiktok.tikdownloader",
 			"imgUrl": "https://lh3.googleusercontent.com/t-h-g-LDuYnBzuEb_z6u-nNW3-CZ-J_jdM2eF2frW-88nBiChDO5l-Xy7r9kcEAzQFw=s360-rw",
