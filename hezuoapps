@@ -1,0 +1,34 @@
+{
+	"apps": [
+	{
+			"name": "Fake Chat instagram",
+			"package": "com.fakechatmessage.fakeeverything",
+			"imgUrl": "https://lh3.googleusercontent.com/ld-EjX_8cmB0ZG0lLKMAzCpjCYH9keNho0R3-dLdVGVNqyC_AUbR6jMWPYlkj3pBgg=s180-rw",
+			"msg": "Fake instagram chat. Amazing app"
+		},
+   {
+			"name": "Fake whatsapp",
+			"package": "com.fakechatforwhatsapp.forfun",
+			"imgUrl": "https://lh3.googleusercontent.com/VQvPEtosSBCqZxkQhUQSEltU5i_LJ7vvvlmaQ3h-1rExyGfoBk1XutFSa58P7RLe4tc=s180-rw",
+			"msg": "Fake chat for whatsapp"
+		},
+    {
+			"name": "Fake messenger",
+			"package": "com.fakechatformessenger.forfun",
+			"imgUrl": "https://lh3.googleusercontent.com/gUbSGtb1soCTWvm1kZ090rX5sqrOppnPuhBYUOs7nzzwIYjYgYNjxta2Q9gsDAzMnR8=s180-rw",
+			"msg": "Fake chat for messenger"
+		},
+	 	{
+			"name": "Broken Screen prank",
+			"package": "com.brokenscreen.funnyjoke",
+			"imgUrl": "https://lh3.googleusercontent.com/wakBPkUUPipBDT5wX93OuBplqaX3am78cfPHjXtMHp9pX0RHEC5ntHftP21WXHwCrKo=s180-rw",
+			"msg": "Prank your friends. Very Funny app."
+		},
+		{
+			"name": "Q Browser - ALL Video Downloader",
+			"package": "com.privatebroswer.qbrowser.videodownloader",
+			"imgUrl": "https://lh3.googleusercontent.com/mfHeYpgHn5wOpVRXr7_22J7khbrylEt-5DlaqEfQCHrLPcw2qLNk4dRVgZwJl-QgqZ8=s360-rw",
+			"msg": "ALL video downloader online. Free Browser"
+		}
+	]
+}
