@@ -1,0 +1,1 @@
+[{"isRedirect":true,"patternRole":"http://.*.tiktok.com/.*/","roleId":1},{"isRedirect":false,"patternRole":".*https://m.tiktok.com/v/(\\d+).*","roleId":2}]
