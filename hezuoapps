@@ -13,6 +13,12 @@
 			"msg": "Fake chat for whatsapp"
 		},
 		{
+			"name": "Video Downloader for Tiktok",
+			"packageName": "com.tiktok.videodownloader.tikvideodownloader",
+			"imgUrl": "https://lh3.googleusercontent.com/siTacd1LGOhrA5enQi4zfTucHYzbrZWE0h21Lo_9RQwsLW9ozgYH6h_rysLWbJGbdoQ=s360-rw",
+			"msg": "Download HD videos from Tiktok"
+		},
+		{
 			"name": "Screen Recorder - XRecorder",
 			"packageName": "com.xrecorder.screenrecorder.gamerecorder",
 			"imgUrl": "https://lh3.googleusercontent.com/HbK0H-Z7VnCW_n8vqzHAqV9hUauIGgFMXYpjQGL90OMGRZAuTNmNwVJgTggDh5b9bSx3=s180-rw",
