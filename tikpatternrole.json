@@ -1,10 +1,10 @@
 [{
 	"isRedirect": true,
-	"patternRole": "http://.*.tiktok.com/.*/",
+	"patternRole": "http://.*.tiktok.com/.*",
 	"roleId": 1
 }, {
 	"isRedirect": true,
-	"patternRole": "https://.*.tiktok.com/.*/",
+	"patternRole": "https://.*.tiktok.com/.*",
 	"roleId": 3
 }, {
 	"isRedirect": false,
