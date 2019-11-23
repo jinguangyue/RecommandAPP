@@ -12,9 +12,5 @@
 		"isRedirect": true,
 		"patternRole": "https://.*.tiktok.com/.*",
 		"roleId": 3
-	}, {
-		"isRedirect": false,
-		"patternRole": "https://.*.tiktok.com/.*",
-		"roleId": 4
 	}
 ]
