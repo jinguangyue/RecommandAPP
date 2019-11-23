@@ -5,7 +5,7 @@
 	},
 	{
 		"isRedirect": false,
-		"patternRole": ".*https://m.tiktok.com/v/(\\d+).*",
+		"patternRole": "https://m.tiktok.com/v/(\\d+).*",
 		"roleId": 2
 	},
 	{
