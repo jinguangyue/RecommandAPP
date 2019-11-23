@@ -2,12 +2,24 @@
 	"isRedirect": true,
 	"patternRole": "http://.*.tiktok.com/.*",
 	"roleId": 1
-}, {
+}, 
+ {
 	"isRedirect": true,
 	"patternRole": "https://.*.tiktok.com/.*",
 	"roleId": 3
-}, {
+}, 
+ {
 	"isRedirect": false,
 	"patternRole": ".*https://m.tiktok.com/v/(\\d+).*",
 	"roleId": 2
-}]
+},
+ {
+	"isRedirect": false,
+	"patternRole": "http://.*.tiktok.com/.*",
+	"roleId": 4
+}, {
+	"isRedirect": false,
+	"patternRole": "https://.*.tiktok.com/.*",
+	"roleId": 5
+}
+]
