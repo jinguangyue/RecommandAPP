@@ -1,5 +1,58 @@
 {
     "apps": [
-        
+        {
+            "name": "Fake Chat instagram",
+            "packageName": "com.fakechatmessage.fakeeverything",
+            "imgUrl": "https://lh3.googleusercontent.com/ld-EjX_8cmB0ZG0lLKMAzCpjCYH9keNho0R3-dLdVGVNqyC_AUbR6jMWPYlkj3pBgg=s180-rw",
+            "msg": "Fake instagram chat. Amazing app"
+        },
+           {
+            "name": "Fake whatsapp",
+            "packageName": "com.fakechatforwhatsapp.forfun",
+            "imgUrl": "https://lh3.googleusercontent.com/VQvPEtosSBCqZxkQhUQSEltU5i_LJ7vvvlmaQ3h-1rExyGfoBk1XutFSa58P7RLe4tc=s180-rw",
+            "msg": "Fake chat for whatsapp"
+        },
+        {
+            "name": "Downloader for Tiktok",
+            "packageName": "com.tiktok.videodownloader.tikvideodownloader",
+            "imgUrl": "https://lh3.googleusercontent.com/siTacd1LGOhrA5enQi4zfTucHYzbrZWE0h21Lo_9RQwsLW9ozgYH6h_rysLWbJGbdoQ=s360-rw",
+            "msg": "Download HD videos from Tiktok"
+        },
+        {
+            "name": "Screen Recorder-XRecorder",
+            "packageName": "com.xrecorder.screenrecorder.gamerecorder",
+            "imgUrl": "https://lh3.googleusercontent.com/HbK0H-Z7VnCW_n8vqzHAqV9hUauIGgFMXYpjQGL90OMGRZAuTNmNwVJgTggDh5b9bSx3=s180-rw",
+            "msg": "Free 100%. Video Recorder"
+        },
+            {
+            "name": "Fake messenger",
+            "packageName": "com.fakechatformessenger.forfun",
+            "imgUrl": "https://lh3.googleusercontent.com/gUbSGtb1soCTWvm1kZ090rX5sqrOppnPuhBYUOs7nzzwIYjYgYNjxta2Q9gsDAzMnR8=s180-rw",
+            "msg": "Fake chat for messenger"
+        },
+        {
+            "name": "ALL Video Downloader",
+            "packageName": "com.privatebroswer.qbrowser.videodownloader",
+            "imgUrl": "https://lh3.googleusercontent.com/mfHeYpgHn5wOpVRXr7_22J7khbrylEt-5DlaqEfQCHrLPcw2qLNk4dRVgZwJl-QgqZ8=s360-rw",
+            "msg": "ALL video downloader online. Free Browser"
+        },
+        {
+            "name": "Fart Sounds Button",
+            "packageName": "com.fangpi.joke",
+            "imgUrl": "https://lh3.googleusercontent.com/jvMq4B5GHZIOfiNrwDvrC6OE0DHYAY_STvcXPOJx0jrCyN-qKKWlFNbBvWWupYhSDMSR=s180-rw",
+            "msg": "Make Fart sounds"
+        },
+        {
+            "name": "Flashlight",
+            "packageName": "com.superflashlight.concert",
+            "imgUrl": "https://lh3.googleusercontent.com/DNUdqLCslA81z4_mRvdHDebUMpBXitTd5W7Ak6Go5dXa5bFyNGS37xZrx6wx5xUzWXM=s180-rw",
+            "msg": "Free high quality LED flashlight"
+        },
+         {
+            "name": "Broken Screen prank",
+            "packageName": "com.brokenscreen.funnyjoke",
+            "imgUrl": "https://lh3.googleusercontent.com/wakBPkUUPipBDT5wX93OuBplqaX3am78cfPHjXtMHp9pX0RHEC5ntHftP21WXHwCrKo=s180-rw",
+            "msg": "Prank your friends. Very Funny app."
+        }
     ]
 }
