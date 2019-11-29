@@ -1,23 +1,20 @@
-[{
-		"isRedirect": true,
-		"patternRole": "https://.*.tiktok.com/.*",
-		"roleId": 1
-	},
-	{
-		"isRedirect": false,
-		"patternRole": ".*https://m.tiktok.com/v/(\\d+).*",
-		"roleId": 2
-	},
-	{
-		"isRedirect": false,
-		"patternRole": "https://.*.tiktok.com/.*/video/(\\d+).*",
-		"roleId": 4
-	},
-	{
-		"isRedirect": true,
-		"patternRole": "https://.*.tiktok.com/.*",
-		"roleId": 3
-	}
-
-
+[
+    {
+        "isRedirect": true,
+        "patternRole": "(http|https)://.*.tiktok.com/[a-zA-Z0-9/]{6,7}",
+        "roleId": 1,
+      "groupIndex":0
+    },
+    {
+        "isRedirect": false,
+        "patternRole": ".*(http|https)://m.tiktok.com/v/(\\d+).*",
+        "roleId": 2,
+      "groupIndex":2
+    },
+    {
+        "isRedirect": false,
+        "patternRole": ".*(http|https)://.*/video/(\\d+).*",
+        "roleId": 3,
+      "groupIndex":2
+    }
 ]
