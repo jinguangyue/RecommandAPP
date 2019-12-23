@@ -11,11 +11,12 @@
             "packageName": "com.fakechatforwhatsapp.forfun",
             "imgUrl": "https://lh3.googleusercontent.com/VQvPEtosSBCqZxkQhUQSEltU5i_LJ7vvvlmaQ3h-1rExyGfoBk1XutFSa58P7RLe4tc=s180-rw",
             "msg": "Fake chat for whatsapp"
-        },{
-            "name": "Fake messenger",
-            "packageName": "com.fakechatformessenger.forfun",
-            "imgUrl": "https://lh3.googleusercontent.com/gUbSGtb1soCTWvm1kZ090rX5sqrOppnPuhBYUOs7nzzwIYjYgYNjxta2Q9gsDAzMnR8=s180-rw",
-            "msg": "Fake chat for messenger"
+        },
+        {
+            "name": "Meme Generator",
+            "packageName": "com.memegenerator.memecreater",
+            "imgUrl": "https://lh3.googleusercontent.com/u_z4WxzXow3rgHkeA3N-QbLpATyUuuKkz_inCEos8QtuJQExvBDDK0jw1YsT9mCqGyjL=s180-rw",
+            "msg": "Create funny memes"
         },
         {
             "name": "Downloader for Tiktok",
@@ -23,6 +24,13 @@
             "imgUrl": "https://lh3.googleusercontent.com/siTacd1LGOhrA5enQi4zfTucHYzbrZWE0h21Lo_9RQwsLW9ozgYH6h_rysLWbJGbdoQ=s360-rw",
             "msg": "Download HD videos from Tiktok"
         },
+        {
+            "name": "Fake messenger",
+            "packageName": "com.fakechatformessenger.forfun",
+            "imgUrl": "https://lh3.googleusercontent.com/gUbSGtb1soCTWvm1kZ090rX5sqrOppnPuhBYUOs7nzzwIYjYgYNjxta2Q9gsDAzMnR8=s180-rw",
+            "msg": "Fake chat for messenger"
+        },
+        
         {
             "name": "Screen Recorder-XRecorder",
             "packageName": "com.xrecorder.screenrecorder.gamerecorder",
