@@ -12,6 +12,12 @@
             "imgUrl": "https://lh3.googleusercontent.com/VQvPEtosSBCqZxkQhUQSEltU5i_LJ7vvvlmaQ3h-1rExyGfoBk1XutFSa58P7RLe4tc=s180-rw",
             "msg": "Fake chat for whatsapp"
         },
+           {
+            "name": "Video Downloader",
+            "packageName": "com.downloader.videodownloaderanth.xdownloader",
+            "imgUrl": "https://lh3.googleusercontent.com/hlmwOk0S4cXC949YgGmK4RzUqp4PEQvMIXcmhLhSyKnKp0rf0pL8zoEJyDNOWfnfOJE=s360-rw",
+            "msg": "Video Downloader for all"
+        },
         {
             "name": "Meme Generator",
             "packageName": "com.memegenerator.memecreater",
