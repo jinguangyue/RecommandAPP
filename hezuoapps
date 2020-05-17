@@ -36,24 +36,11 @@
             "imgUrl": "https://lh3.googleusercontent.com/gUbSGtb1soCTWvm1kZ090rX5sqrOppnPuhBYUOs7nzzwIYjYgYNjxta2Q9gsDAzMnR8=s180-rw",
             "msg": "Fake chat for messenger"
         },
-        
-        {
-            "name": "Screen Recorder-XRecorder",
-            "packageName": "com.xrecorder.screenrecorder.gamerecorder",
-            "imgUrl": "https://lh3.googleusercontent.com/HbK0H-Z7VnCW_n8vqzHAqV9hUauIGgFMXYpjQGL90OMGRZAuTNmNwVJgTggDh5b9bSx3=s180-rw",
-            "msg": "Free 100%. Video Recorder"
-        },
         {
             "name": "ALL Video Downloader",
             "packageName": "com.privatebroswer.qbrowser.videodownloader",
             "imgUrl": "https://lh3.googleusercontent.com/mfHeYpgHn5wOpVRXr7_22J7khbrylEt-5DlaqEfQCHrLPcw2qLNk4dRVgZwJl-QgqZ8=s360-rw",
             "msg": "ALL video downloader online. Free Browser"
-        },
-        {
-            "name": "Fart Sounds Button",
-            "packageName": "com.fangpi.joke",
-            "imgUrl": "https://lh3.googleusercontent.com/jvMq4B5GHZIOfiNrwDvrC6OE0DHYAY_STvcXPOJx0jrCyN-qKKWlFNbBvWWupYhSDMSR=s180-rw",
-            "msg": "Make Fart sounds"
         }
     ]
 }
