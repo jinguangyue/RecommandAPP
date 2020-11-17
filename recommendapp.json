@@ -1,5 +1,6 @@
 {
             "name": "Video Downloader",
+            "isRecommend":"1",
             "packageName": "com.downloader.videodownloaderanth.xdownloader",
             "imgUrl": "https://lh3.googleusercontent.com/hlmwOk0S4cXC949YgGmK4RzUqp4PEQvMIXcmhLhSyKnKp0rf0pL8zoEJyDNOWfnfOJE=s360-rw",
             "msg": "Video Downloader for all"
