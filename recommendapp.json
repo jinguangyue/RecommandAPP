@@ -1,7 +1,7 @@
 {
-            "name": "Video Downloader",
-            "isRecommend":"0",
-            "packageName": "com.downloader.videodownloaderanth.xdownloader",
-            "imgUrl": "https://lh3.googleusercontent.com/hlmwOk0S4cXC949YgGmK4RzUqp4PEQvMIXcmhLhSyKnKp0rf0pL8zoEJyDNOWfnfOJE=s360-rw",
-            "msg": "Video Downloader for all"
+            "name": "Status Downloader",
+            "isRecommend":"1",
+            "packageName": "statusdownloader.savewhatsappstatus.statussaver",
+            "imgUrl": "https://play-lh.googleusercontent.com/2-9dEs2nid6JaXNpIBoWFeZRLaB3GCeMyjRftSiqPkXyo362bex5FrsqQhy_SMDLxA=s360-rw",
+            "msg": "Status Saver-Status Downloader"
         }
